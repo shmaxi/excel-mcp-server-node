@@ -1,0 +1,13 @@
+src/
+tsconfig.json
+.gitignore
+example-config.json
+*.log
+.DS_Store
+.env
+.vscode/
+*.xlsx
+*.xls
+coverage/
+.npm/
+node_modules/
